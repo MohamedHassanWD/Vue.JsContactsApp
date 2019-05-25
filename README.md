@@ -1,4 +1,4 @@
-# challenge2
+# Vue.js Contacts App
 
 ## Project setup
 ```
